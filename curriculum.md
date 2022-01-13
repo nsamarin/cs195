@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Curriculum
 nav_order: 2
 ---
 
-# Configuration
+# Curriculum
 {: .no_toc }
 
 
